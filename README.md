@@ -40,7 +40,7 @@ Edit
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
-git clone https://github.com/yourusername/todolist.git
+git clone https://github.com/MinnuReddykontham/todolist.git
 cd todolist
 
 2. Install dependencies
