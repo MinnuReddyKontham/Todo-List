@@ -1,0 +1,39 @@
+body{
+  background-color:aqua;
+}
+.head{
+  font-weight:bold;
+  font-size:50px;
+  padding-top:25px;
+}
+.kg-btn{
+  margin-top:20px;
+}
+.kg-bt{
+  margin-top:20px;
+}
+.dan{
+  min-width:80px;
+}
+input{
+  width:90%;
+}
+.main{
+  background-color: aliceblue;
+  margin-top:200px;
+  max-width:700px;
+  min-height:300px;
+  margin-left:350px;
+}
+.matter{
+  text-transform: capitalize;
+  font-weight:bold;
+}
+.wel{
+  font-size:25px;
+  font-style: italic;
+  font-weight:bold;
+  text-align:center;
+  margin-top:25px;
+  color:red;
+}
