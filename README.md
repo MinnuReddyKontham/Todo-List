@@ -40,8 +40,8 @@ Edit
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
-git clone https://github.com/MinnuReddykontham/todolist.git
-cd todolist
+git clone https://github.com/MinnuReddyKontham/Todo-List.git
+cd Todo-List
 
 2. Install dependencies
 npm install
